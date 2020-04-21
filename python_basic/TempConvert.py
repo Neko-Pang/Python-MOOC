@@ -19,3 +19,5 @@ elif TempStr[-1] in ['C', 'c']:
     # print("The converted temperature is {:.2f}F".format(F))
 else:
     print("Format ERROR")
+
+# eval('print("Hello")')
