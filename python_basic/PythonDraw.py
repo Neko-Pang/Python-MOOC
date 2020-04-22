@@ -32,7 +32,7 @@ tt.goto(0, 0)
 from turtle import *
 clearscreen()
 colormode(255)
-color(57, 197, 187)
+color((57, 197, 187))
 left(45)
 fd(150)
 right(135)
